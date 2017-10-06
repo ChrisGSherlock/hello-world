@@ -1,2 +1,2 @@
 # hello-world
-My first depo
+I am a senior lecturer in statistics, researching computationally-intensive methods.
